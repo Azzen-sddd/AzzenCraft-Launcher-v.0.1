@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "azzencraft",
   "version": "1.8.0",
-  "productName": "Helios Launcher",
+  "productName": "AzzenCraft Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) and Azzen",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
